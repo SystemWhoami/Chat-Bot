@@ -10,6 +10,6 @@ chmod +x chatter_bot.py
 ```
 to run the bot, go to the file directory and type
 ```sh
-./chatter_bot
+./chatter_bot.py
 
 ```
